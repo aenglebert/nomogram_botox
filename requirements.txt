@@ -1,0 +1,5 @@
+altgraph==0.17.4
+Everything-Tkinter==0.2
+packaging==23.2
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2024.0
